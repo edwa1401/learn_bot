@@ -1,0 +1,6 @@
+settings.py
+*.log
+env/
+_pycashe_/
+.idea/
+.DS_Store
