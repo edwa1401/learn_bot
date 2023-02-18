@@ -1,6 +1,6 @@
 settings.py
 *.log
 env/
-_pycashe_/
+__pycache__/
 .idea/
 .DS_Store
